@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Brush_machine.png</file>
+        <file>Excavator.png</file>
+    </qresource>
+</RCC>
